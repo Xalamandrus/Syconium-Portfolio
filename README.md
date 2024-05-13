@@ -10,8 +10,6 @@ Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzają
 
 # W-Portfolio-Umieszczam
 
-Prezentacja mechanik: https://www.youtube.com/watch?v=13463GAdleo
-
 - Skrypty generujące punkty w obszarze area.
     - [PointsArea.cs](Scripts/PointsArea.cs)
 
@@ -20,3 +18,5 @@ Prezentacja mechanik: https://www.youtube.com/watch?v=13463GAdleo
 
 - Skrypt odpowiedzialny za wyświetlanie drzew w zasięgu gracza.
     - [PlayerRenderDistance.cs](Scripts/PlayerRenderDistance.cs)
+
+Prezentacja mechanik: https://www.youtube.com/watch?v=13463GAdleo
