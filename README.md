@@ -19,4 +19,4 @@ Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzają
 - Skrypt odpowiedzialny za wyświetlanie drzew w zasięgu gracza.
     - [PlayerRenderDistance.cs](Scripts/PlayerRenderDistance.cs)
 
-Prezentacja mechanik: https://www.youtube.com/watch?v=13463GAdleo
+Prezentacja skryptów: https://www.youtube.com/watch?v=13463GAdleo
