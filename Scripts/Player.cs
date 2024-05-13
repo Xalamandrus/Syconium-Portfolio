@@ -4,7 +4,7 @@ using System.Drawing;
 using Unity.VisualScripting.Antlr3.Runtime.Tree;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class PlayerRenderDistance : MonoBehaviour
 {
     [SerializeField] private float _checkDistance = 20f;
 
