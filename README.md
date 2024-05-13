@@ -9,7 +9,10 @@ Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzają
 # W-Portfolio-Umieszczam
 
 - Skrypty generujące punkty w obszarze area.
+    - [PointsArea.cs](Scripts/PointArea.cs)
 
 - Skrypt tworzący Object Pooling dla drzew.
+    - [ObjectPooling.cs](Scripts/ObjectPooling.cs)
 
 - Skrypt odpowiedzialny za wyświetlanie drzew w zasięgu gracza.
+    - [Player.cs](Scripts/Player.cs)
