@@ -15,4 +15,4 @@ Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzają
     - [ObjectPooling.cs](Scripts/ObjectPooling.cs)
 
 - Skrypt odpowiedzialny za wyświetlanie drzew w zasięgu gracza.
-    - [Player.cs](Scripts/Player.cs)
+    - [PlayerRenderDistance.cs](Scripts/PlayerRenderDistance.cs)
