@@ -10,7 +10,7 @@ Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzają
 
 # W-Portfolio-Umieszczam
 
-Prezentacja mechaniki: https://www.youtube.com/watch?v=13463GAdleo
+Prezentacja mechanik: https://www.youtube.com/watch?v=13463GAdleo
 
 - Skrypty generujące punkty w obszarze area.
     - [PointsArea.cs](Scripts/PointsArea.cs)
