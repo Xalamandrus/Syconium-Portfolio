@@ -7,3 +7,9 @@ Gra "Syconium" została stworzona w 4-osobowym zespole składającym się z graf
 Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzając projektem w silniku Unity. Dodatkowo programowałem mechanikę generowania terenu w grze.
 
 # W-Portfolio-Umieszczam
+
+- Skrypty generujące punkty w obszarze area.
+
+- Skrypt tworzący Object Pooling dla drzew.
+
+- Skrypt odpowiedzialny za wyświetlanie drzew w zasięgu gracza.
