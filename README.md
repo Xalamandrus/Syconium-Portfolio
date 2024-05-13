@@ -5,3 +5,5 @@ Gra "Syconium" została stworzona w 4-osobowym zespole składającym się z graf
 # Moja-Rola-W-Zespole
 
 Głównie odgrywałem rolę lidera, kierując całym projektem oraz zarządzając projektem w silniku Unity. Dodatkowo programowałem mechanikę generowania terenu w grze.
+
+# W-Portfolio-Umieszczam
